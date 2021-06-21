@@ -3,7 +3,6 @@ import './Form.css';
 
 const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     const inputTextHandler = e => {
-        console.log(e.target.value);
         setInputText(e.target.value);
     };
     const submitTodoHandler = e => {
