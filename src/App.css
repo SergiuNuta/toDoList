@@ -6,8 +6,8 @@
 
 body {
   text-align: center;
-  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
-  color: white;
+  /* background-image: linear-gradient(120deg, #6888e2 0%, #7843f3 100%); */
+  /* color: rgb(36, 24, 24); */
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
 }
