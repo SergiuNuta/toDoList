@@ -2,6 +2,7 @@ import React from 'react';
 import './Form.css';
 
 const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
+    
     const inputTextHandler = e => {
         setInputText(e.target.value);
     };
